@@ -1,0 +1,56 @@
+body {
+    background-image: url("/Users/joescott/HTML Examples/html101/DC-Profiles/img/1_zVDcaM6mqhi9m0LP_Sq4Ag.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: lightslategray;
+}
+
+body div a img {
+    width:128px;
+    height: 54px;
+}
+
+div ul {
+    text-align: right;
+}
+
+header {
+    text-align: center;
+}
+
+header div img {
+    height: 100px;
+    width: 250px;
+    margin: 50px 0px 0px 0px;
+}
+
+header div p {
+    margin: 50px 0px 0px 0px;
+}
+
+.container {
+    font-family: Arial;
+    text-align: center;
+    width: 960px;
+    margin: 0 auto;
+    image-orientation: center;
+}
+
+.container .row img {
+    height: 300px;
+    width: 300px;
+    margin: 0px 0px 25px 0px;
+}
+
+.container .row p {
+    margin: 0px 0px 50px 0px;
+}
+
+footer {
+    background-size: cover;
+}
+
+footer div p {
+    text-align: center;
+    clear: both;
+}
